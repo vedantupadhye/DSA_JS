@@ -1,3 +1,2 @@
-const ispallindrome =(x) =>{
-    
-}
+console.log(marks)
+var marks = 200
